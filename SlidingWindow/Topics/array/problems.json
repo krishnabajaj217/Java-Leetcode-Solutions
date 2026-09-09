@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T19:31:20.994Z",
+  "updatedAt": "2026-09-09T19:31:27.680Z",
   "problems": [
     {
       "frontendId": "121",
@@ -63,6 +63,26 @@
           "path": "SlidingWindow/0658-find-k-closest-elements/0658-find-k-closest-elements.java",
           "sha": "539b3ece3459e0ec70caf4d7e9a39349ffbe5754",
           "lastSyncedAt": "2026-09-09T19:30:24.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "SlidingWindow/0877-stone-game/",
+      "readmePath": "SlidingWindow/0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "SlidingWindow/0877-stone-game/0877-stone-game.java",
+          "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
+          "lastSyncedAt": "2026-09-09T19:31:27.680Z"
         }
       ]
     },
