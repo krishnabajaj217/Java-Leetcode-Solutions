@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T19:31:07.090Z",
+  "updatedAt": "2026-09-09T19:31:20.994Z",
   "problems": [
     {
       "frontendId": "121",
@@ -123,6 +123,26 @@
           "path": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "d669243765283d2434fa112a4ecfdb3ba4d287e8",
           "lastSyncedAt": "2026-09-09T19:29:06.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2828",
+      "title": "Check if a String Is an Acronym of Words",
+      "slug": "check-if-a-string-is-an-acronym-of-words",
+      "problemName": "2828-check-if-a-string-is-an-acronym-of-words",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/",
+      "folderPath": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/",
+      "readmePath": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2828-check-if-a-string-is-an-acronym-of-words.java",
+          "path": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/2828-check-if-a-string-is-an-acronym-of-words.java",
+          "sha": "c043a4e10c55520b20510f3cbea66f9b45feaaf6",
+          "lastSyncedAt": "2026-09-09T19:31:20.994Z"
         }
       ]
     }
