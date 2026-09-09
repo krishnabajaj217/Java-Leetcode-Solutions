@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-09T19:28:35.413Z",
-  "problems": []
+  "updatedAt": "2026-09-09T19:28:51.027Z",
+  "problems": [
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "SlidingWindow/0567-permutation-in-string/",
+      "readmePath": "SlidingWindow/0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0567-permutation-in-string.java",
+          "path": "SlidingWindow/0567-permutation-in-string/0567-permutation-in-string.java",
+          "sha": "045d88d7f99cdb4bbdd6c3ad3ecbe3039fdf7d53",
+          "lastSyncedAt": "2026-09-09T19:28:51.027Z"
+        }
+      ]
+    }
+  ]
 }
