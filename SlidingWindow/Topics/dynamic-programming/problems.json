@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-09T19:31:07.090Z",
+  "updatedAt": "2026-09-09T19:31:27.680Z",
   "problems": [
     {
       "frontendId": "121",
@@ -23,6 +23,26 @@
           "path": "SlidingWindow/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "6b01d7c68f4bfeb9203362273ff4b9d286998074",
           "lastSyncedAt": "2026-09-09T19:31:07.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "SlidingWindow/0877-stone-game/",
+      "readmePath": "SlidingWindow/0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0877-stone-game.java",
+          "path": "SlidingWindow/0877-stone-game/0877-stone-game.java",
+          "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
+          "lastSyncedAt": "2026-09-09T19:31:27.680Z"
         }
       ]
     },
