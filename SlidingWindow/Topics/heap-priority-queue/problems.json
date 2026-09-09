@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-09T19:30:24.419Z",
+  "updatedAt": "2026-09-09T19:30:36.065Z",
   "problems": [
     {
       "frontendId": "239",
@@ -43,6 +43,26 @@
           "path": "SlidingWindow/0658-find-k-closest-elements/0658-find-k-closest-elements.java",
           "sha": "539b3ece3459e0ec70caf4d7e9a39349ffbe5754",
           "lastSyncedAt": "2026-09-09T19:30:24.419Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1046",
+      "title": "Last Stone Weight",
+      "slug": "last-stone-weight",
+      "problemName": "1046-last-stone-weight",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+      "folderPath": "SlidingWindow/1046-last-stone-weight/",
+      "readmePath": "SlidingWindow/1046-last-stone-weight/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1046-last-stone-weight.java",
+          "path": "SlidingWindow/1046-last-stone-weight/1046-last-stone-weight.java",
+          "sha": "b8f9aa843af5ab13d8730be918414dee276a9b04",
+          "lastSyncedAt": "2026-09-09T19:30:36.065Z"
         }
       ]
     }
