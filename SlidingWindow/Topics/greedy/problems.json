@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-09T19:30:43.460Z",
+  "updatedAt": "2026-09-09T19:31:46.930Z",
   "problems": [
     {
       "frontendId": "2091",
@@ -23,6 +23,26 @@
           "path": "SlidingWindow/2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.java",
           "sha": "d85efa25ab0b164e8c505b18c06a0f8d32a66b54",
           "lastSyncedAt": "2026-09-09T19:30:43.460Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "SlidingWindow/3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "SlidingWindow/3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "path": "SlidingWindow/3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "sha": "010038f80b968fffd55993fc7760b01c894ac05d",
+          "lastSyncedAt": "2026-09-09T19:31:46.930Z"
         }
       ]
     }
