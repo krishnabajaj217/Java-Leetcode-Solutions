@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-09T19:31:13.418Z",
+  "updatedAt": "2026-09-09T19:31:46.930Z",
   "problems": [
     {
       "frontendId": "395",
@@ -123,6 +123,26 @@
           "path": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
           "sha": "d669243765283d2434fa112a4ecfdb3ba4d287e8",
           "lastSyncedAt": "2026-09-09T19:29:06.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "SlidingWindow/3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "SlidingWindow/3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "path": "SlidingWindow/3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.java",
+          "sha": "010038f80b968fffd55993fc7760b01c894ac05d",
+          "lastSyncedAt": "2026-09-09T19:31:46.930Z"
         }
       ]
     }
