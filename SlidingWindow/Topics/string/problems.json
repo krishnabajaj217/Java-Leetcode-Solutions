@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-09T19:30:52.336Z",
+  "updatedAt": "2026-09-09T19:31:00.434Z",
   "problems": [
     {
       "frontendId": "395",
@@ -43,6 +43,26 @@
           "path": "SlidingWindow/0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "045d88d7f99cdb4bbdd6c3ad3ecbe3039fdf7d53",
           "lastSyncedAt": "2026-09-09T19:30:16.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1047",
+      "title": "Remove All Adjacent Duplicates In String",
+      "slug": "remove-all-adjacent-duplicates-in-string",
+      "problemName": "1047-remove-all-adjacent-duplicates-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+      "folderPath": "SlidingWindow/1047-remove-all-adjacent-duplicates-in-string/",
+      "readmePath": "SlidingWindow/1047-remove-all-adjacent-duplicates-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1047-remove-all-adjacent-duplicates-in-string.java",
+          "path": "SlidingWindow/1047-remove-all-adjacent-duplicates-in-string/1047-remove-all-adjacent-duplicates-in-string.java",
+          "sha": "af22a045642da045aed99954faf7b26c98198d9d",
+          "lastSyncedAt": "2026-09-09T19:31:00.434Z"
         }
       ]
     },
