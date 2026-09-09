@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-09T19:29:58.564Z",
+  "updatedAt": "2026-09-09T19:31:07.090Z",
   "problems": [
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "SlidingWindow/0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "SlidingWindow/0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0121-best-time-to-buy-and-sell-stock.java",
+          "path": "SlidingWindow/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
+          "sha": "6b01d7c68f4bfeb9203362273ff4b9d286998074",
+          "lastSyncedAt": "2026-09-09T19:31:07.090Z"
+        }
+      ]
+    },
     {
       "frontendId": "1025",
       "title": "Divisor Game",
