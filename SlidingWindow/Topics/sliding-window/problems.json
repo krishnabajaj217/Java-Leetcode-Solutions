@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-09T19:28:51.027Z",
+  "updatedAt": "2026-09-09T19:29:06.992Z",
   "problems": [
     {
       "frontendId": "567",
@@ -23,6 +23,26 @@
           "path": "SlidingWindow/0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "045d88d7f99cdb4bbdd6c3ad3ecbe3039fdf7d53",
           "lastSyncedAt": "2026-09-09T19:28:51.027Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2461",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "problemName": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+      "folderPath": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/",
+      "readmePath": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
+          "path": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
+          "sha": "d669243765283d2434fa112a4ecfdb3ba4d287e8",
+          "lastSyncedAt": "2026-09-09T19:29:06.992Z"
         }
       ]
     }
