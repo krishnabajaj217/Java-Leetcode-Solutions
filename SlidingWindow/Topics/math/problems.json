@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-09T19:31:27.680Z",
+  "updatedAt": "2026-09-09T19:31:58.338Z",
   "problems": [
     {
       "frontendId": "877",
@@ -23,6 +23,26 @@
           "path": "SlidingWindow/0877-stone-game/0877-stone-game.java",
           "sha": "f58319ce981893e8dbd119b9be5aa4bb18c16870",
           "lastSyncedAt": "2026-09-09T19:31:27.680Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "SlidingWindow/3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "SlidingWindow/3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.java",
+          "path": "SlidingWindow/3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.java",
+          "sha": "c91b40a77a62d72205b7997ed36bc080aecac3fb",
+          "lastSyncedAt": "2026-09-09T19:31:58.338Z"
         }
       ]
     }
