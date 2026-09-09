@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-09T19:29:39.460Z",
+  "updatedAt": "2026-09-09T19:30:24.419Z",
   "problems": [
     {
       "frontendId": "239",
@@ -23,6 +23,26 @@
           "path": "SlidingWindow/0239-sliding-window-maximum/0239-sliding-window-maximum.java",
           "sha": "7656edd2af7faecb7b7712f283d740985e6674c1",
           "lastSyncedAt": "2026-09-09T19:29:39.460Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "SlidingWindow/0658-find-k-closest-elements/",
+      "readmePath": "SlidingWindow/0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0658-find-k-closest-elements.java",
+          "path": "SlidingWindow/0658-find-k-closest-elements/0658-find-k-closest-elements.java",
+          "sha": "539b3ece3459e0ec70caf4d7e9a39349ffbe5754",
+          "lastSyncedAt": "2026-09-09T19:30:24.419Z"
         }
       ]
     }
