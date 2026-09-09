@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-09T19:31:58.338Z",
+  "updatedAt": "2026-09-09T19:32:05.951Z",
   "problems": [
     {
       "frontendId": "395",
@@ -143,6 +143,26 @@
           "path": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/2828-check-if-a-string-is-an-acronym-of-words.java",
           "sha": "c043a4e10c55520b20510f3cbea66f9b45feaaf6",
           "lastSyncedAt": "2026-09-09T19:31:20.994Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "SlidingWindow/2942-find-words-containing-character/",
+      "readmePath": "SlidingWindow/2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2942-find-words-containing-character.java",
+          "path": "SlidingWindow/2942-find-words-containing-character/2942-find-words-containing-character.java",
+          "sha": "af317232a59c5a0ed582ac881ca95ecef93c6123",
+          "lastSyncedAt": "2026-09-09T19:32:05.951Z"
         }
       ]
     },
