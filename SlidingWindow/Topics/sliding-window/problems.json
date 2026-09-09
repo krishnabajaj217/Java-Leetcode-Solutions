@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-09T19:29:58.237Z",
+  "updatedAt": "2026-09-09T19:30:07.358Z",
   "problems": [
     {
       "frontendId": "239",
@@ -62,7 +62,7 @@
           "filename": "0567-permutation-in-string.java",
           "path": "SlidingWindow/0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "045d88d7f99cdb4bbdd6c3ad3ecbe3039fdf7d53",
-          "lastSyncedAt": "2026-09-09T19:29:58.237Z"
+          "lastSyncedAt": "2026-09-09T19:30:07.358Z"
         }
       ]
     },
