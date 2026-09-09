@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-09T19:28:35.413Z",
-  "problems": []
+  "updatedAt": "2026-09-09T19:29:06.992Z",
+  "problems": [
+    {
+      "frontendId": "2461",
+      "title": "Maximum Sum of Distinct Subarrays With Length K",
+      "slug": "maximum-sum-of-distinct-subarrays-with-length-k",
+      "problemName": "2461-maximum-sum-of-distinct-subarrays-with-length-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+      "folderPath": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/",
+      "readmePath": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
+          "path": "SlidingWindow/2461-maximum-sum-of-distinct-subarrays-with-length-k/2461-maximum-sum-of-distinct-subarrays-with-length-k.java",
+          "sha": "d669243765283d2434fa112a4ecfdb3ba4d287e8",
+          "lastSyncedAt": "2026-09-09T19:29:06.992Z"
+        }
+      ]
+    }
+  ]
 }
