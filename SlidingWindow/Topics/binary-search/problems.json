@@ -4,6 +4,27 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-09T19:28:35.413Z",
-  "problems": []
+  "updatedAt": "2026-09-09T19:30:24.419Z",
+  "problems": [
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "SlidingWindow/0658-find-k-closest-elements/",
+      "readmePath": "SlidingWindow/0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0658-find-k-closest-elements.java",
+          "path": "SlidingWindow/0658-find-k-closest-elements/0658-find-k-closest-elements.java",
+          "sha": "539b3ece3459e0ec70caf4d7e9a39349ffbe5754",
+          "lastSyncedAt": "2026-09-09T19:30:24.419Z"
+        }
+      ]
+    }
+  ]
 }
