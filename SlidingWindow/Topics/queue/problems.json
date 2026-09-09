@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "queue",
+    "name": "Queue"
+  },
+  "updatedAt": "2026-09-09T19:29:39.460Z",
+  "problems": [
+    {
+      "frontendId": "239",
+      "title": "Sliding Window Maximum",
+      "slug": "sliding-window-maximum",
+      "problemName": "0239-sliding-window-maximum",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+      "folderPath": "SlidingWindow/0239-sliding-window-maximum/",
+      "readmePath": "SlidingWindow/0239-sliding-window-maximum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0239-sliding-window-maximum.java",
+          "path": "SlidingWindow/0239-sliding-window-maximum/0239-sliding-window-maximum.java",
+          "sha": "7656edd2af7faecb7b7712f283d740985e6674c1",
+          "lastSyncedAt": "2026-09-09T19:29:39.460Z"
+        }
+      ]
+    }
+  ]
+}
