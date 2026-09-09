@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-09T19:31:46.930Z",
+  "updatedAt": "2026-09-09T19:31:58.338Z",
   "problems": [
     {
       "frontendId": "395",
@@ -143,6 +143,26 @@
           "path": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/2828-check-if-a-string-is-an-acronym-of-words.java",
           "sha": "c043a4e10c55520b20510f3cbea66f9b45feaaf6",
           "lastSyncedAt": "2026-09-09T19:31:20.994Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "SlidingWindow/3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "SlidingWindow/3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.java",
+          "path": "SlidingWindow/3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.java",
+          "sha": "c91b40a77a62d72205b7997ed36bc080aecac3fb",
+          "lastSyncedAt": "2026-09-09T19:31:58.338Z"
         }
       ]
     },
