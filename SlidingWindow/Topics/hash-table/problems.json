@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-09T19:29:06.992Z",
+  "updatedAt": "2026-09-09T19:29:16.857Z",
   "problems": [
+    {
+      "frontendId": "395",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "problemName": "0395-longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+      "folderPath": "SlidingWindow/0395-longest-substring-with-at-least-k-repeating-characters/",
+      "readmePath": "SlidingWindow/0395-longest-substring-with-at-least-k-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0395-longest-substring-with-at-least-k-repeating-characters.java",
+          "path": "SlidingWindow/0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.java",
+          "sha": "bea7e214878835757fc810c84e1216bbb113c5c7",
+          "lastSyncedAt": "2026-09-09T19:29:16.857Z"
+        }
+      ]
+    },
     {
       "frontendId": "567",
       "title": "Permutation in String",
