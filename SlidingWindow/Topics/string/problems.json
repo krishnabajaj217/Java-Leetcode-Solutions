@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-09T19:31:13.418Z",
+  "updatedAt": "2026-09-09T19:31:20.994Z",
   "problems": [
     {
       "frontendId": "395",
@@ -123,6 +123,26 @@
           "path": "SlidingWindow/1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.java",
           "sha": "e30e7d04e435f80871577691f5484faa6392b849",
           "lastSyncedAt": "2026-09-09T19:29:28.163Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2828",
+      "title": "Check if a String Is an Acronym of Words",
+      "slug": "check-if-a-string-is-an-acronym-of-words",
+      "problemName": "2828-check-if-a-string-is-an-acronym-of-words",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/",
+      "folderPath": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/",
+      "readmePath": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2828-check-if-a-string-is-an-acronym-of-words.java",
+          "path": "SlidingWindow/2828-check-if-a-string-is-an-acronym-of-words/2828-check-if-a-string-is-an-acronym-of-words.java",
+          "sha": "c043a4e10c55520b20510f3cbea66f9b45feaaf6",
+          "lastSyncedAt": "2026-09-09T19:31:20.994Z"
         }
       ]
     }
