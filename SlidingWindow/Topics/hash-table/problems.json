@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-09T19:30:16.303Z",
+  "updatedAt": "2026-09-09T19:30:52.336Z",
   "problems": [
     {
       "frontendId": "395",
@@ -43,6 +43,26 @@
           "path": "SlidingWindow/0567-permutation-in-string/0567-permutation-in-string.java",
           "sha": "045d88d7f99cdb4bbdd6c3ad3ecbe3039fdf7d53",
           "lastSyncedAt": "2026-09-09T19:30:16.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1370",
+      "title": "Increasing Decreasing String",
+      "slug": "increasing-decreasing-string",
+      "problemName": "1370-increasing-decreasing-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-decreasing-string/",
+      "folderPath": "SlidingWindow/1370-increasing-decreasing-string/",
+      "readmePath": "SlidingWindow/1370-increasing-decreasing-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1370-increasing-decreasing-string.java",
+          "path": "SlidingWindow/1370-increasing-decreasing-string/1370-increasing-decreasing-string.java",
+          "sha": "9d64f428acd76e7dff2d8422a262cb834f4c9052",
+          "lastSyncedAt": "2026-09-09T19:30:52.336Z"
         }
       ]
     },
