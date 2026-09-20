@@ -14,14 +14,26 @@
 //         return sum;
 //     }
 // }
+// class Solution {
+//     public int reverseDegree(String s) {
+//         String rev_a = "zyxwvutsrqponmlkjihgfedcba";
+//         int sum = 0;
+
+//         for (int i = 0; i < s.length(); i++) {
+//             int index = rev_a.indexOf(s.charAt(i));
+//             sum += (index + 1) * (i + 1);
+//         }
+
+//         return sum;
+//     }
+// }
 class Solution {
     public int reverseDegree(String s) {
-        String rev_a = "zyxwvutsrqponmlkjihgfedcba";
         int sum = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            int index = rev_a.indexOf(s.charAt(i));
-            sum += (index + 1) * (i + 1);
+            int reversePosition = 'z' - s.charAt(i) + 1;
+            sum += reversePosition * (i + 1);
         }
 
         return sum;
