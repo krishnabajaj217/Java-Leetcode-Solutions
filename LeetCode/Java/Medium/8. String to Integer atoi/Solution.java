@@ -39,12 +39,18 @@ class Solution {
                 continue;
             }
 
-            if (Character.isDigit(ch)) {
-                started = true;
-                num = num * 10 + (ch - '0');
-            } else {
+            if (!Character.isDigit(ch)) {
                 break;
             }
+
+            started = true;
+            int digit = ch - '0';
+
+            if (num > (Integer.MAX_VALUE - digit) / 10) {
+                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+            }
+
+            num = num * 10 + digit;
         }
 
         return num * sign;
