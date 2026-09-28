@@ -1,6 +1,6 @@
 # 📝 27. Remove Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-element)
+🔗 [Problem Link](https://leetcode.com/problems/remove-element/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 43.7 MB
 
 ---
 
