@@ -3,56 +3,56 @@
 //         return people.length;
 //     }
 // }
-import java.util.*;
-
-class Solution {
-    public int numRescueBoats(int[] people, int limit) {
-        Arrays.sort(people);
-
-        int l = 0;
-        int r = people.length - 1;
-        int boats = 0;
-
-        while (l <= r) {
-            if (people[l] + people[r] <= limit) {
-                l++;
-                r--;
-            } else {
-                r--;
-            }
-
-            boats++;
-        }
-
-        return boats;
-    }
-}
 // import java.util.*;
 
 // class Solution {
 //     public int numRescueBoats(int[] people, int limit) {
 //         Arrays.sort(people);
 
-//         int l = 0, r = people.length - 1;
+//         int l = 0;
+//         int r = people.length - 1;
 //         int boats = 0;
 
 //         while (l <= r) {
-//             if (people[l] + people[r] == limit) {
+//             if (people[l] + people[r] <= limit) {
 //                 l++;
 //                 r--;
-//                 boats++;
-//             } 
-//             else if (people[l] + people[r] < limit) {
-//                 l++;
+//             } else {
 //                 r--;
-//                 boats++;
-//             } 
-//             else {
-//                 r--;
-//                 boats++;
 //             }
+
+//             boats++;
 //         }
 
 //         return boats;
 //     }
 // }
+import java.util.*;
+
+class Solution {
+    public int numRescueBoats(int[] people, int limit) {
+        Arrays.sort(people);
+
+        int l = 0, r = people.length - 1;
+        int boats = 0;
+
+        while (l <= r) {
+            if (people[l] + people[r] == limit) {
+                l++;
+                r--;
+                boats++;
+            } 
+            else if (people[l] + people[r] < limit) {
+                l++;
+                r--;
+                boats++;
+            } 
+            else {
+                r--;
+                boats++;
+            }
+        }
+
+        return boats;
+    }
+}
