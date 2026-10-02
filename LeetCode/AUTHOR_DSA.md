@@ -123,7 +123,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Rotate Array
 - [ ] Lemonade Change
 - [ ] Time Needed to Buy Tickets
-- [x] [Boats to Save People](./Java/Medium/881. Boats to Save People/)
+- [x] [Boats to Save People](./Java/Medium/917. Boats to Save People/)
 - [ ] Gas Station
 
 ### 📂 MODULE  3.9: ADVANCED ARRAY QUESTIONS Co
