@@ -20,40 +20,54 @@
 //         return res;
 //     }
 // }
-import java.util.*;
+// import java.util.*;
+// class Solution {
+//     public int[] maxSlidingWindow(int[] nums, int k) {
+//         int n = nums.length;
+//         int[] res = new int[n - k + 1];
+//         // {value, index}
+//         PriorityQueue<int[]> pq=
+//             new PriorityQueue<>((a, b) -> b[0] - a[0]);
 
+//         // First window
+//         for (int i = 0; i < k; i++) {
+//             pq.add(new int[]{nums[i], i});
+//         }
+
+//         res[0] = pq.peek()[0];
+
+//         // Slide window
+//         for (int i = k; i < n; i++) {
+//             // Add new element
+//             pq.add(new int[]{nums[i], i});
+//             // Remove elements outside current window
+//             while (pq.peek()[1] <= i - k) {
+//                 pq.poll();
+//             }
+//             // Maximum
+//             res[i - k + 1] = pq.peek()[0];
+//         }
+//         return res;
+//     }
+// }
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
 
-        int n = nums.length;
-        int[] res = new int[n - k + 1];
+        int[] ans = new int[nums.length - k + 1];
 
-        // {value, index}
-        PriorityQueue<int[]> pq =
-            new PriorityQueue<>((a, b) -> b[0] - a[0]);
+        for (int i = 0; i <= nums.length - k; i++) {
 
-        // First window
-        for (int i = 0; i < k; i++) {
-            pq.add(new int[]{nums[i], i});
-        }
+            int max = Integer.MIN_VALUE;
 
-        res[0] = pq.peek()[0];
-
-        // Slide window
-        for (int i = k; i < n; i++) {
-
-            // Add new element
-            pq.add(new int[]{nums[i], i});
-
-            // Remove elements outside current window
-            while (pq.peek()[1] <= i - k) {
-                pq.poll();
+            for (int j = i; j < i + k; j++) {
+                if (nums[j] > max) {
+                    max = nums[j];
+                }
             }
 
-            // Maximum
-            res[i - k + 1] = pq.peek()[0];
+            ans[i] = max;
         }
 
-        return res;
+        return ans;
     }
 }
