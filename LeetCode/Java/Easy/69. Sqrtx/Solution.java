@@ -15,14 +15,35 @@
 //         }
 //     }
 // }
+// class Solution {
+//     public int mySqrt(int x) {
+//         // return Math.sqrt(x);
+//         int i = 0;
+
+//         while ((long) i * i <= x) {
+//             i++;
+//         }
+
+//         return i - 1;
+//     }
+// }
 class Solution {
     public int mySqrt(int x) {
-        int i = 0;
+        int left = 0;
+        int right = x;
+        int ans = 0;
 
-        while ((long) i * i <= x) {
-            i++;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+
+            if ((long) mid * mid <= x) {
+                ans = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
         }
 
-        return i - 1;
+        return ans;
     }
 }
