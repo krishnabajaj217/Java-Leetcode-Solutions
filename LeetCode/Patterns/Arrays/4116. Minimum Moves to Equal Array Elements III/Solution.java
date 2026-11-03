@@ -8,11 +8,12 @@ class Solution {
             }
         }
          for(int i=0;i<nums.length;i++){
+            count += max - nums[i];
             // int diff=max-nums[i];
-            while(nums[i]!=max){
-                nums[i]++;
-                count++;
-            }
+            // while(nums[i]!=max){
+            //     nums[i]++;
+            //     count++;
+            // }
         }
         return count;
     }
